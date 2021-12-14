@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "uber-eats-6c259"
+  },
+  "targets": {
+    "uber-eats-6c259": {
+      "hosting": {
+        "app": [
+          "uber-eats-6c259"
+        ]
+      }
+    }
+  }
+}
